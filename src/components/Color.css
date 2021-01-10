@@ -1,0 +1,23 @@
+.Color {
+  width: 20%;
+  height: 75px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Color h2 {
+  color: #ffffff;
+  margin: 0;
+  padding: 5px;
+  mix-blend-mode: difference;
+}
+
+.Color p {
+  color: #ffffff;
+  margin: 0;
+  padding: 5px;
+  mix-blend-mode: difference;
+}

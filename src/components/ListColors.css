@@ -1,0 +1,8 @@
+.Color-list {
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
